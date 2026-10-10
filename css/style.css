@@ -82,3 +82,7 @@ html[lang="ar"] .brand { letter-spacing: 0; }
 .soon { text-align: center; padding: 70px 0; }
 .soon h2 { font-size: 2.6rem; color: var(--rust); }
 .soon h2::after { content: ""; display: block; width: 44px; height: 3px; background: var(--dune); margin: 10px auto 0; }
+white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  padding-left: 1.5em;
+  text-indent: -1.5em;
