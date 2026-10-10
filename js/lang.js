@@ -4,7 +4,7 @@ const AR = {
   "nav_home": "الرئيسية",
   "nav_about": "من نحن",
   "nav_services": "الخدمات",
-  "nav_contact": "اتصل بنا",
+  "nav_contact": "الداخلية",
   "f_contact": "اتصل بنا",
   "f_instagram": "إنستغرام",
   "f_email": "البريد الإلكتروني",
